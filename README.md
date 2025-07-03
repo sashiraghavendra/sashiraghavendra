@@ -1,55 +1,82 @@
 # 👋 Hi, I'm Sashi Raghavendra
 
-🎓 Final-year B.Tech Computer Science student at **Kalasalingam Academy of Research and Education**  
-💡 Passionate about Java development, problem-solving, and building impactful software projects.
+## 🧑‍💻 About Me
+
+I'm Sashi, a final-year Computer Science & Engineering student at **Kalasalingam Academy of Research and Education**, passionate about building impactful applications using **Java**, **MySQL**, and clean code practices.
+
+This README is my place to share who I am, what I build, and how I grow as a developer. Let's connect and code something meaningful!
 
 ---
 
-## 🚀 Skills & Tools
-- 💻 **Languages:** Java, SQL  
-- 🌐 **Web:** HTML, CSS (Basics)  
-- 🛠 **Tools & IDEs:** Git, GitHub, VS Code, Eclipse  
-- 🔗 **Databases:** MySQL  
-- 🧠 **Soft Skills:** Teamwork, Communication, Problem-solving
+## 🚀 Skills & Interests
+
+### 💻 Programming Languages:
+- Java
+- SQL
+- HTML & CSS (Basics)
+
+### 🛠 Tools & IDEs:
+- Git & GitHub
+- VS Code, Eclipse, NetBeans
+
+### 📚 Technologies:
+- JDBC, Swing (GUI), XAMPP, MySQL
+
+### 🌱 Currently Learning:
+- Spring Boot
+- REST APIs
+- Software Architecture
+
+### 💡 Soft Skills:
+- Problem-solving
+- Teamwork & Collaboration
+- Communication
 
 ---
 
-## 🛠️ Projects
+## 🧩 Projects
 
-### 🎓 Kalasalingam University Management System  
-> Menu-driven Java application for managing admissions, fees, and hostel bookings.  
-**Tech Stack:** Java, OOP, Scanner, Random  
-🔗 [GitHub Link](#)
-
----
-
-### 🧳 Travel Management System  
-> GUI system for holiday/hotel booking with user login and profile management.  
-**Tech Stack:** Java, Swing, JDBC, MySQL  
-🔗 [GitHub Link](#)
+### 🎓 Kalasalingam University Management System
+- Menu-driven Java application for managing student admissions, fees, and hostel bookings.
+- Implemented features like registration number generation and payment validation.
+> **Tech:** Java, OOP, Scanner, Random  
+🔗 [Project Link](#)
 
 ---
 
-### ✈️ Airline Ticket Booking System  
-> Desktop app for ticket booking, flight management, and cancellation.  
-**Tech Stack:** Java Swing, JDBC, MySQL, NetBeans  
-🔗 [GitHub Link](#)
+### ✈️ Airline Ticket Booking System
+- GUI app for airline ticket bookings, login, flight management, and cancellations.
+- Persistent storage using MySQL.
+> **Tech:** Java, Swing, JDBC, MySQL, NetBeans  
+🔗 [Project Link](#)
+
+---
+
+### 🧳 Travel Management System
+- User registration/login, package booking, hotel management via Java Swing forms.
+> **Tech:** Java, JDBC, Swing, MySQL, XAMPP  
+🔗 [Project Link](#)
 
 ---
 
 ## 📜 Certifications
-- 🎓 Introduction to Java – Coursera (offered by LearnQuest), Jun 2025  
+
+- 🎓 **Introduction to Java** – Coursera (by LearnQuest), Jun 2025  
 [View Certificate](#)
 
 ---
 
-## 📫 Connect with Me
+## 🤝 Connect with Me
+
 - 📧 Email: your.email@example.com  
-- 💼 LinkedIn: [Your LinkedIn](#)  
-- 🏗️ GitHub: [@your-username](https://github.com/your-username)
+- 💼 LinkedIn: [Your LinkedIn Profile](#)  
+- 📁 GitHub: [@sashi-raghavendra](https://github.com/sashi-raghavendra)
 
 ---
 
 ## 💬 Feedback Welcome!
-I'm always open to learning and collaboration!  
-Let’s connect and build something amazing 🚀
+
+I'm always open to learning, collaboration, and feedback.  
+Feel free to reach out if you want to work on something exciting together or just say hi! 🚀
+
+---
