@@ -2,7 +2,7 @@
 
 ## 🧑‍💻 About Me
 
-I'm Sashi, a final-year Computer Science & Engineering student at **Kalasalingam Academy of Research and Education**, passionate about building impactful applications using **Java**, **MySQL**, and clean code practices.
+I'm Sashi, a final-year Computer Science & Engineering student at Kalasalingam Academy of Research and Education, passionate about building impactful applications using Java, MySQL, and clean code practices.
 
 This README is my place to share who I am, what I build, and how I grow as a developer. Let's connect and code something meaningful!
 
@@ -40,7 +40,7 @@ This README is my place to share who I am, what I build, and how I grow as a dev
 - Menu-driven Java application for managing student admissions, fees, and hostel bookings.
 - Implemented features like registration number generation and payment validation.
 > **Tech:** Java, OOP, Scanner, Random  
-🔗 [Project Link](#)
+🔗 [Project Link](https://github.com/sashiraghavendra/kalasalingam-University-management-system.git)
 
 ---
 
@@ -48,7 +48,7 @@ This README is my place to share who I am, what I build, and how I grow as a dev
 - GUI app for airline ticket bookings, login, flight management, and cancellations.
 - Persistent storage using MySQL.
 > **Tech:** Java, Swing, JDBC, MySQL, NetBeans  
-🔗 [Project Link]()
+🔗 [Project Link](https://github.com/sashiraghavendra/Airline-Ticket-Booking-System.git)
 
 ---
 
@@ -62,14 +62,14 @@ This README is my place to share who I am, what I build, and how I grow as a dev
 ## 📜 Certifications
 
 - 🎓 **Introduction to Java** – Coursera (by LearnQuest), Jun 2025  
-[View Certificate](#)
+[View Certificate](https://coursera.org/share/ebf7c01713e3a45622f2ca83cdc63022)
 
 ---
 
 ## 🤝 Connect with Me
 
-- 📧 Email: your.email@example.com  
-- 💼 LinkedIn: [Your LinkedIn Profile](#)  
+- 📧 Email: sashiraghavendra789@gmail.com  
+- 💼 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/sashi-raghavendra/)  
 - 📁 GitHub: [@sashi-raghavendra](https://github.com/sashi-raghavendra)
 
 ---
