@@ -48,14 +48,14 @@ This README is my place to share who I am, what I build, and how I grow as a dev
 - GUI app for airline ticket bookings, login, flight management, and cancellations.
 - Persistent storage using MySQL.
 > **Tech:** Java, Swing, JDBC, MySQL, NetBeans  
-🔗 [Project Link](#)
+🔗 [Project Link]()
 
 ---
 
 ### 🧳 Travel Management System
 - User registration/login, package booking, hotel management via Java Swing forms.
 > **Tech:** Java, JDBC, Swing, MySQL, XAMPP  
-🔗 [Project Link](#)
+🔗 [Project Link](https://github.com/sashiraghavendra/Travel-Management-System)
 
 ---
 
