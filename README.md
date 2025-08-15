@@ -69,7 +69,7 @@ This README is my place to share who I am, what I build, and how I grow as a dev
 ## 🤝 Connect with Me
 
 - 📧 Email: sashiraghavendra789@gmail.com  
-- 💼 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/sashi-raghavendra/)  
+- 💼 LinkedIn: [@Sashi Raghavendra](https://www.linkedin.com/in/sashi-raghavendra/)  
 - 📁 GitHub: [@sashi-raghavendra](https://github.com/sashi-raghavendra)
 
 ---
