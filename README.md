@@ -38,13 +38,13 @@ I am a highly motivated and ambitious **B.Tech Computer Science student** with a
 
 ## 💻 Projects
 
-### [University Management System](#)
+### [University Management System](#https://github.com/sashiraghavendra/kalasalingam-University-management-system.git)
 - Built a **Java-based console application** to automate university admissions, fee payments, and hostel management.  
 - Developed interactive modules for **student registration, fee transactions, and hostel booking**.  
 - Increased operational efficiency through automation.  
 - **Technologies:** Java, OOP, Scanner, Console I/O, Random  
 
-### [FileDock – Spring Boot File Management System](#)
+### [FileDock – Spring Boot File Management System](#https://github.com/sashiraghavendra/FileDock.git)
 - Developed a **Spring Boot REST API** for secure file upload, storage, and download.  
 - Implemented endpoints with **validation and exception handling** for robustness.  
 - Automated file management and ensured **structured storage**.  
