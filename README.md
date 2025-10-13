@@ -1,82 +1,73 @@
-# 👋 Hi, I'm Sashi Raghavendra
+Hi there, I'm Desha Sashi Raghavendra Kumar 👋
 
-## 🧑‍💻 About Me
 
-I'm Sashi, a final-year Computer Science & Engineering student at Kalasalingam Academy of Research and Education, passionate about building impactful applications using Java, MySQL, and clean code practices.
 
-This README is my place to share who I am, what I build, and how I grow as a developer. Let's connect and code something meaningful!
 
----
+📍 Nandyal, Andhra Pradesh, India
+📧 sashiraghavendra789@gmail.com
+ | 📱 6302155895
 
-## 🚀 Skills & Interests
+About Me
 
-### 💻 Programming Languages:
-- Java
-- SQL
-- HTML & CSS (Basics)
+I am a highly motivated and ambitious B.Tech Computer Science student with a passion for learning and problem-solving. I thrive on creative thinking and enjoy taking on academic and technical challenges. I am looking to leverage my skills in Java, Spring Boot, and MySQL to build impactful projects and contribute effectively to innovative solutions.
 
-### 🛠 Tools & IDEs:
-- Git & GitHub
-- VS Code, Eclipse, NetBeans
+🛠 Skills
 
-### 📚 Technologies:
-- JDBC, Swing (GUI), XAMPP, MySQL
+Programming Languages: Java
+Backend Frameworks: Spring Boot
+Databases: MySQL
+Tools & Platforms: Git, Eclipse, VS Code
+Soft Skills: Teamwork, Communication, Problem-Solving
 
-### 🌱 Currently Learning:
-- Spring Boot
-- REST APIs
-- Software Architecture
+📚 Education
 
-### 💡 Soft Skills:
-- Problem-solving
-- Teamwork & Collaboration
-- Communication
+B.Tech in Computer Science – Kalasalingam Academy of Research and Education (2022 - 2026)
+CGPA: 8.19/10 – Virudhunagar, Tamil Nadu
 
----
+Intermediate (Class XII – MPC) – SDR Akanksha Junior College (2020 - 2022)
+Percentage: 83.6% – Nandyal, Andhra Pradesh
 
-## 🧩 Projects
+Secondary (Class X) – Sri Shanthiniketan E.M. School (2019 - 2020)
+Percentage: 98.3% – Nandyal, Andhra Pradesh
 
-### 🎓 Kalasalingam University Management System
-- Menu-driven Java application for managing student admissions, fees, and hostel bookings.
-- Implemented features like registration number generation and payment validation.
-> **Tech:** Java, OOP, Scanner, Random  
-🔗 [Project Link](https://github.com/sashiraghavendra/kalasalingam-University-management-system.git)
+💻 Projects
+[University Management System](GitHub link here)
 
----
+Built a Java-based console application to automate university admissions, fee payments, and hostel management.
 
-### ✈️ Airline Ticket Booking System
-- GUI app for airline ticket bookings, login, flight management, and cancellations.
-- Persistent storage using MySQL.
-> **Tech:** Java, Swing, JDBC, MySQL, NetBeans  
-🔗 [Project Link](https://github.com/sashiraghavendra/Airline-Ticket-Booking-System.git)
+Developed interactive modules for student registration, fee transactions, and hostel booking.
 
----
+Increased operational efficiency through automation.
 
-### 🧳 Travel Management System
-- User registration/login, package booking, hotel management via Java Swing forms.
-> **Tech:** Java, JDBC, Swing, MySQL, XAMPP  
-🔗 [Project Link](https://github.com/sashiraghavendra/Travel-Management-System)
+Technologies: Java, OOP, Scanner, Console I/O, Random
 
----
+[FileDock – Spring Boot File Management System](GitHub link here)
 
-## 📜 Certifications
+Developed a Spring Boot REST API for secure file upload, storage, and download.
 
-- 🎓 **Introduction to Java** – Coursera (by LearnQuest), Jun 2025  
-[View Certificate](https://coursera.org/share/ebf7c01713e3a45622f2ca83cdc63022)
+Implemented endpoints with validation and exception handling for robustness.
 
----
+Automated file management and ensured structured storage.
 
-## 🤝 Connect with Me
+Technologies: Java, Spring Boot, REST API, Maven
 
-- 📧 Email: sashiraghavendra789@gmail.com  
-- 💼 LinkedIn: [@Sashi Raghavendra](https://www.linkedin.com/in/sashi-raghavendra/)  
-- 📁 GitHub: [@sashi-raghavendra](https://github.com/sashi-raghavendra)
+🎓 Certifications
 
----
+Introduction to Java – Coursera (LearnQuest), Jun 2025 [View Certificate]
 
-## 💬 Feedback Welcome!
+MySQL Fundamentals – IBM SkillsBuild, Jul 2025 [View Certificate]
 
-I'm always open to learning, collaboration, and feedback.  
-Feel free to reach out if you want to work on something exciting together or just say hi! 🚀
+Introduction to Git and GitHub – Coursera (Google), Jul 2025 [View Certificate]
 
----
+🏆 Technical Events & Hackathons
+
+Education Portal (InnovArc’25): Built a full-stack website with AI chatbot and personalized learning paths in 24 hours.
+
+Waste2Craft (Kratos 2K25): Developed an e-commerce platform for recycling-based products with dashboards and gamified rewards.
+
+📫 Contact Me
+
+Feel free to reach out for collaboration, internship opportunities, or project discussions!
+📧 sashiraghavendra789@gmail.com
+
+📱 +91 6302155895
