@@ -38,13 +38,13 @@ I am a highly motivated and ambitious **B.Tech Computer Science student** with a
 
 ## 💻 Projects
 
-### [University Management System](#https://github.com/sashiraghavendra/kalasalingam-University-management-system.git)
+### [University Management System](https://github.com/sashiraghavendra/kalasalingam-University-management-system)
 - Built a **Java-based console application** to automate university admissions, fee payments, and hostel management.  
 - Developed interactive modules for **student registration, fee transactions, and hostel booking**.  
 - Increased operational efficiency through automation.  
 - **Technologies:** Java, OOP, Scanner, Console I/O, Random  
 
-### [FileDock – Spring Boot File Management System](#https://github.com/sashiraghavendra/FileDock.git)
+### [FileDock – Spring Boot File Management System](https://github.com/sashiraghavendra/FileDock)
 - Developed a **Spring Boot REST API** for secure file upload, storage, and download.  
 - Implemented endpoints with **validation and exception handling** for robustness.  
 - Automated file management and ensured **structured storage**.  
@@ -54,9 +54,9 @@ I am a highly motivated and ambitious **B.Tech Computer Science student** with a
 
 ## 🎓 Certifications
 
-- **Introduction to Java** – Coursera (LearnQuest), Jun 2025 [View Certificate](#)  
-- **MySQL Fundamentals** – IBM SkillsBuild, Jul 2025 [View Certificate](#)  
-- **Introduction to Git and GitHub** – Coursera (Google), Jul 2025 [View Certificate](#)  
+- **Introduction to Java** – Coursera (LearnQuest), Jun 2025 [View Certificate](https://coursera.org/share/ebf7c01713e3a45622f2ca83cdc63022)  
+- **MySQL Fundamentals** – IBM SkillsBuild, Jul 2025 [View Certificate](https://courses.yl-ptech.skillsnetwork.site/certificates/340f05a1274549718024e93cdd417c76)  
+- **Introduction to Git and GitHub** – Coursera (Google), Jul 2025 [View Certificate](https://www.coursera.org/account/accomplishments/verify/6PRRH7PXRZSL)  
 
 ---
 
