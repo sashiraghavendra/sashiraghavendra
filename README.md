@@ -10,7 +10,7 @@
 
 ![](https://img.shields.io/badge/Graduation-2026-indigo?style=for-the-badge)
 
-![](https://img.shields.io/badge/CGPA-8.19%2F10-purple?style=for-the-badge)
+![](https://img.shields.io/badge/CGPA-8.3%2F10-purple?style=for-the-badge)
 
 ![](https://img.shields.io/badge/Nandyal-Andhra%20Pradesh-blue?style=for-the-badge)
 
