@@ -53,7 +53,7 @@ Interested in applying software engineering fundamentals in software development
 | Degree | Bachelor of Technology in Computer Science and Engineering |
 | University | Kalasalingam Academy of Research and Education |
 | Duration | 2022 - 2026 |
-| CGPA | 8.19 / 10.0 |
+| CGPA | 8.3 / 10.0 |
 
 ---
 
